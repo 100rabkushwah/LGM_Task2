@@ -24,7 +24,7 @@ function App() {
     <>
  <header>
 
-<a href="#" className="logo"><span>MAHABALI_</span>FITNESS</a>
+<a href="#" className="logo"><span>SAURABH</span>MALL</a>
     <center><h1>LGM_Task_2</h1></center>
      <button className="btn" onClick={loadusers}>GET USER DATA</button>
 
